@@ -1,4 +1,4 @@
-### 🔭[Source Hut](https://git.sr.ht/~rmpr)  🌱[Gitlab](https://gitlab.com/RMPR)  💬[Stackoverflow](https://stackoverflow.com/users/8873120/rmpr)  📫[Blog](https://rmpr.xyz)  ⚡[Mastodon](https://hostux.social/@rmpr) ZQ
+### 🔭[Source Hut](https://git.sr.ht/~rmpr)  🌱[Gitlab](https://gitlab.com/RMPR)  💬[Stackoverflow](https://stackoverflow.com/users/8873120/rmpr)  📫[Blog](https://rmpr.xyz)  ⚡[Mastodon](https://hostux.social/@rmpr)
 <!--
 **RMPR/rmpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
